@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["count","Counts the characters in `subject`."],["count_graphemes","Counts the graphemes in `subject` taking care of surrogate pairs and combining marks."],["count_substrings","Counts the number of `substring` appearances in `subject`."],["count_words","Counts the number of words in `subject`."]]});

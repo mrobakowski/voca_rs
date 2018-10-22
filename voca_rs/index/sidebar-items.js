@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["index_of","Returns the first occurrence index of `search` in `subject` or -1 if not found."],["last_index_of","Returns the last occurrence index of `search` in `subject` or -1 if not found."]]});

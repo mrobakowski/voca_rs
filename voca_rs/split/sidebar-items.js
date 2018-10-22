@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["chars","Splits `subject` into an array of characters."],["graphemes","Splits `subject` into an array of graphemes"],["split","Splits `subject` into an array of chunks by `separator`."],["words","Splits `subject` into an array of words."]]});
